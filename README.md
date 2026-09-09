@@ -36,7 +36,7 @@ To run these files, you need R (v4.0+) and RStudio. You must install the followi
 
 ### Execution Steps
 1. **Clone** the Repository
-```git clone https://github.com/your-username/your-repo-name.git```
+```git clone https://github.com/estherg12/your-repo-name.git```
 2. Set working directory: open RStudio and set your directory to the folder where the files are located
 3. Run **Scripts**: open any file and run the code block-by-block. Some files, like ```6.mnist.R``` or ```BreastCancerProject.R``` perform Cross-Validation which may take 1-5 minutes to execute (depending on the HW)
 4. Check outputs: the scripts are designed to output diagnostic **plots** and metrics in the Console
